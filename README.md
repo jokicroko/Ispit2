@@ -1,1 +1,2 @@
 # Ispit2
+#VjezbaMYSQL
