@@ -1,2 +1,1 @@
-# Ispit2
-#VjezbaMYSQL
+# ParcIspitNapredno
